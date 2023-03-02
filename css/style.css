@@ -1,0 +1,24 @@
+.heding-one{
+    background-color: aqua;
+    font-size: 30px;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    
+}
+#user,#pass,p{
+    background-color: aqua;
+    color: black;
+
+}
+a{
+    background-color: white;
+    text-decoration: none;
+}
+.azizul-1{
+    background-color: brown;
+    text-align: center;
+    font-size: 30px;
+    margin: 20px;
+    padding: 20px;
+}
